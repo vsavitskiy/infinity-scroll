@@ -1,0 +1,11 @@
+# IDE generated files
+.idea
+
+# Dependency directories
+node_modules
+
+# Build generated files
+dist
+
+# OS generated files
+.DS_Store
