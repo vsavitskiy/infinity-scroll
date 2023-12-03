@@ -5,7 +5,9 @@
         }
     },
     "ignorePatterns": [
-        "vite.config.js"
+        "vite.config.js",
+        "postcss.config.js",
+        "tailwind.config.js"
     ],
     "env": {
         "browser": true,
