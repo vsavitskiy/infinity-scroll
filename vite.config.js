@@ -20,12 +20,6 @@ export default defineConfig({
     emptyOutDir: true,
     assetsDir: 'assets',
     sourcemap: false,
-    minify: 'terser',
-    terserOptions: {
-      compress: {
-        keep_infinity: true,
-        drop_console: true,
-      }
-    }
+    minify: 'esbuild'
   }
 })

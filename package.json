@@ -13,7 +13,7 @@
     "build": "vite build",
     "serve": "vite preview",
     "lint": "eslint src --ext .ts,.tsx",
-    "generate-docs": "typedoc --out docs src/**/*.*"
+    "generate-docs": "typedoc"
   },
   "dependencies": {
     "react": "^18.2.0",

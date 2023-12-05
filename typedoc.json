@@ -1,0 +1,12 @@
+{
+    "name": "Infinite Scroll. Home assignment",
+    "out": "docs",
+    "cleanOutputDir": true,
+    "entryPoints": [
+        "./index.tsx",
+        "./src/**/*.ts",
+        "./src/**/*.tsx"
+    ],
+    "jsDocCompatibility": true,
+    "tsconfig": "tsconfig.json"
+}
